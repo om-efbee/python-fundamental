@@ -1,6 +1,6 @@
 # Percabangan
 
-jumlah_botol_susu = 173
+jumlah_botol_susu = 175
 jumlah_telur = 0
 print(f'jumlah botol susu {jumlah_botol_susu} btl')
 print (f"jumlah telur {jumlah_telur} butir")
